@@ -9,5 +9,6 @@
   }
 
   .todo_input::placeholder {
-    color: rgba(255, 255, 255, 0.438);
+    color: #fff;
+    font-size: 14px;
   }

@@ -2,11 +2,10 @@
     font-family: 'Maven Pro', sans-serif;
   }
   body {
-    background: linear-gradient(
-      /* 70deg, */
-      rgb(27, 27, 27) 0%,
-      rgb(59, 59, 59) 100%
-    );
+    background: url(https://i.pinimg.com/originals/6d/72/ec/6d72ec208bf85647d5e594db79218802.jpg)
+		center center;
+	  background-attachment: fixed;
+	  background-size: cover;
   }
   .todo-app {
     display: flex;
@@ -14,7 +13,7 @@
     justify-content: start;
     width: 500px;
     min-height: 500px;
-    background: rgb(93, 155, 197);
+    background: rgba(214, 214, 214, 0.5);
     margin: 128px auto;
     border-radius: 30px;
   }
